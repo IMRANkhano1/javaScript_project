@@ -54,5 +54,3 @@ function del(event) {
   event.preventDefault();
   event.target.parentElement.remove();
 }
-
-
